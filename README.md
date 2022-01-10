@@ -1,4 +1,4 @@
-# baby-aglypto-macd
+# baby-aglypto-template
 
 ## Users should edit the indicator file in:
 
