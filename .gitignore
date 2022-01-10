@@ -1,0 +1,5 @@
+.env
+node_modules
+test.js
+/indicators/__pycache__
+/indicators/config.py

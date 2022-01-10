@@ -1,0 +1,33 @@
+{
+  "name": "baby-aglypto-macd",
+  "version": "1.0.0",
+  "description": "Automatic trading bot trades crypto using MACD indicator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev-start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Centexus/baby-aglypto-macd.git"
+  },
+  "keywords": [
+    "MACD",
+    "Aglypto",
+    "Crypto",
+    "Binance"
+  ],
+  "author": "Rishikesh S, Idea by Rajkumar R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Centexus/baby-aglypto-macd/issues"
+  },
+  "homepage": "https://github.com/Centexus/baby-aglypto-macd#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0",
+    "node-binance-api-ext": "^2.0.1",
+    "telegraf": "^4.4.2",
+    "ws": "^8.3.0"
+  }
+}
