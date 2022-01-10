@@ -1,6 +1,6 @@
 // client to initiate the binance client
 
-const dotenv = require("dotenv").config();
+require("dotenv").config();
 const Binance = require("node-binance-api-ext");
 
 const binance = Binance({
